@@ -8,7 +8,7 @@ function App() {
       </h1>
 
       <p>
-        Is this what hapiiness feels like?
+        Is this what happiness feels like?
       </p>
     </div>
   );
