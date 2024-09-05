@@ -1,13 +1,6 @@
-
-
-.App {
-  background-color: rosybrown;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  justify-items: center;
+html {
+  /* padding-top: 15%; */
   text-align: center;
-  width: 100%;
 }
 
 .App h1 {
@@ -21,16 +14,3 @@ p {
   font-size: larger;
   font-weight: 500;
 }
-
-/* .App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-} */
